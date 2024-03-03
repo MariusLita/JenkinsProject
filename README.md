@@ -9,3 +9,7 @@ After you clone the repo you will have to follow the next steps to run the appli
 
 This two commands will install the dependecies based on the pom.xml file and run the SpringBoot app.
 To test it just access localhost:8080 on an browser and you should be able to see the html template.
+
+
+The project also contains the Jenkinsfile if you want to run the project in Jenkins.
+
